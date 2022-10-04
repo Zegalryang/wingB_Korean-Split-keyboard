@@ -6,7 +6,7 @@
 #define PRODUCT_ID      0x6666
 #define DEVICE_VER      0x0001
 #define PRODUCT         WingB
-#define MANUFACTURER    Mastery
+#define MANUFACTURER    Zegalryang
 
 /* key matrix size */
 // Rows are doubled-up
