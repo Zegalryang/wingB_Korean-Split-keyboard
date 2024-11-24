@@ -52,7 +52,12 @@ https://beta.docs.qmk.fm/using-qmk/simple-keycodes/keycodes
     qmk compile -kb wingB -km default
 
 ## 6. Flash (아두이노에 코드 업로드)
-QMK Toolbox
+### QMK Firmware
+빌드 할 버전을 아래로 특정 해야 한다.   
+python: qmk==0.4.0   
+qmk_firmware 0.11.0   
+
+### QMK Toolbox
 https://github.com/qmk/qmk_toolbox/releases
 <img width="603" alt="스크린샷 2021-10-03 오후 11 48 50" src="https://user-images.githubusercontent.com/91782246/135759217-e21f7cad-a057-4379-89e5-12238ecb0e04.png">
 
